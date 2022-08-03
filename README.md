@@ -12,3 +12,5 @@ Se necesita tener instalado R en la computadora, y un conocimiento básico del p
 4- Modificación de archivos: navegación entre pestañas, carga y descarga de pestañas, carga y descarga de pedazos de tableros
 
 
+Para ejecutar el programa, es necesario tener en el drive un único archivo en formato sheets de google que se llame 
+"inflacion_patagonia_junio_2022", así como una única carpeta llamada "Curso_R_SEPOT"
